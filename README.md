@@ -1,29 +1,17 @@
+## Landing Page Clones
+Coleção de landing pages desenvolvidas com foco em interface, layout e experiência visual.
 
-# Projetos com HTML e Css.
+Este repositório reúne diferentes projetos de landing pages, explorando variações de design e estruturas. Muitos deles inspirados e copiados de sites famosos.
 
-Projetos de clones de páginas da web, desenvolvidos com HTML e CSS para fins de prática e aprendizado.
+## 🛠️ Tecnologias 
+- HTML 
+- CSS
 
-#
-
-
-## Clone da Página de login da Netflix
-
- - Descrição: Este projeto é um clone da página de login da Netflix, desenvolvido utilizando apenas HTML e CSS. O objetivo é recriar a aparência e a disposição dos elementos da interface original, permitindo uma prática focada em layout, tipografia e design responsivo
- - Visualizar: [Veja o projeto aqui](https://eduardapouzada.github.io/Projetos-Html-Css/Clone-Netflix)
-
-## Clone de uma página de PodCast
-
- - Descrição: Este projeto é um clone de uma página dedicada a um podcast, criado com HTML e CSS.
- - Visualizar: [Veja o projeto aqui](https://eduardapouzada.github.io/Projetos-Html-Css/Clone-PodCast)
-
-## Clone da página inicial do Spotify
-
- - Descrição: Este projeto é um clone da página inicial do Spotify, desenvolvido utilizando apenas HTML e CSS. O objetivo é replicar o layout e a estética da plataforma de streaming.
- - Visualizar: [Veja o projeto aqui](https://eduardapouzada.github.io/Projetos-Html-Css/Clone-Spotify-Imersão)
-
-## Clone de uma landing page de um produto
-
- - Descrição: Este projeto é um clone de uma landing page de um produto de tênis da Nike, desenvolvido apenas com HTML e CSS.
- - Visualizar: [Veja o projeto aqui](https://eduardapouzada.github.io/Projetos-Html-Css/Clone-Tenis-Nike)
+## 🚀 Como executar
+1. Clone o repositório:
+2. git clone https://github.com/eduardapouzada/landing-page-lab.git
+3. Acesse a pasta do projeto desejado
+4. Abra o arquivo index.html no navegador
 
 #
+- Desenvolvido por https://github.com/eduardapouzada
