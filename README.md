@@ -9,9 +9,9 @@ Este repositório reúne diferentes projetos de landing pages, explorando varia�
 
 ## 🚀 Como executar
 1. Clone o repositório:
-2. git clone https://github.com/eduardapouzada/landing-page-lab.git
+´´´git clone https://github.com/seu-usuario/landing-page-lab.git´´´
 3. Acesse a pasta do projeto desejado
 4. Abra o arquivo index.html no navegador
 
 #
-- Desenvolvido por https://github.com/eduardapouzada
+- Desenvolvido por <a href="https://github.com/eduardapouzada">Eduarda Pouzada</a>
